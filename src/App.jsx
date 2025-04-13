@@ -1,5 +1,5 @@
 import "./App.css";
-import DaisyNav from "./components/DaisyNav/DaisyNav";
+// import DaisyNav from "./components/DaisyNav/DaisyNav";
 import NavBar from "./components/NabBar/NavBar";
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     
       <header>
         <NavBar></NavBar>
-      <DaisyNav></DaisyNav>
+      {/* <DaisyNav></DaisyNav> */}
       </header>
     </>
   );

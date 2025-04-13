@@ -1,0 +1,48 @@
+[
+    {
+      "id": "plan_day_pass",
+      "name": "Day Pass",
+      "price": "$10",
+      "description": "Perfect for visitors or casual users who want access for just a day.",
+      "features": [
+        "Full day gym access",
+        "Use of all equipment",
+        "Locker room access",
+        "One free bottle of water",
+        "Wi-Fi access",
+        "No sign-up required"
+      ]
+    },
+    {
+      "id": "plan_fitness_plus",
+      "name": "Fitness Plus",
+      "price": "$45/month",
+      "description": "Great for people who work out a few times a week and want added benefits.",
+      "features": [
+        "Unlimited gym access",
+        "Group fitness classes included",
+        "1 personal training session/month",
+        "Access to mobile app and fitness tracking",
+        "Locker & towel service",
+        "Fitness challenges and rewards",
+        "Guest pass (1 per month)"
+      ]
+    },
+    {
+      "id": "plan_total_fit",
+      "name": "Total Fit Access",
+      "price": "$89/month",
+      "description": "Designed for serious fitness enthusiasts who want full support and premium access.",
+      "features": [
+        "All features from Fitness Plus",
+        "Unlimited personal training support",
+        "Sauna and wellness area access",
+        "Customized workout and nutrition plans",
+        "Priority class booking",
+        "Monthly health report",
+        "Free gym merchandise (starter kit)",
+        "Dedicated fitness advisor"
+      ]
+    }
+  ]
+  
