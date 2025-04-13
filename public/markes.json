@@ -1,0 +1,66 @@
+[
+    {
+      "studentId": "S001",
+      "studentName": "Alice Johnson",
+      "marks": {
+        "physics": 65,
+        "chemistry": 70,
+        "math": 60
+      }
+    },
+    {
+      "studentId": "S002",
+      "studentName": "Brian Smith",
+      "marks": {
+        "physics": 75,
+        "chemistry": 80,
+        "math": 78
+      }
+    },
+    {
+      "studentId": "S003",
+      "studentName": "Chloe Davis",
+      "marks": {
+        "physics": 92,
+        "chemistry": 90,
+        "math": 95
+      }
+    },
+    {
+      "studentId": "S004",
+      "studentName": "David Clark",
+      "marks": {
+        "physics": 88,
+        "chemistry": 85,
+        "math": 79
+      }
+    },
+    {
+      "studentId": "S005",
+      "studentName": "Ella Walker",
+      "marks": {
+        "physics": 81,
+        "chemistry": 89,
+        "math": 93
+      }
+    },
+    {
+      "studentId": "S006",
+      "studentName": "Frank Miller",
+      "marks": {
+        "physics": 77,
+        "chemistry": 70,
+        "math": 85
+      }
+    },
+    {
+      "studentId": "S007",
+      "studentName": "Grace Lee",
+      "marks": {
+        "physics": 68,
+        "chemistry": 76,
+        "math": 72
+      }
+    }
+  ]
+  
